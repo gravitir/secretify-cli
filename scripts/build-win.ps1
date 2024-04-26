@@ -1,0 +1,1 @@
+go build -ldflags "-X 'secretify-cli/internal/config.Version=$VERSION' -X 'secretify-cli/internal/config.Date=$(Get-Date -Format 'yyyy-MM-dd')'" -o secretify.exe

@@ -77,7 +77,7 @@ Available Commands:
   create      Create a new secret link
   help        Help about any command
   login       Login with username and password
-  logout      Log out from a Secretify
+  logout      Log out
   reveal      Reveal a secret
   version     Show the build version, build time, and git hash
 

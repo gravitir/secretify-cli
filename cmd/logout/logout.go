@@ -11,7 +11,7 @@ import (
 func newLogout() *cobra.Command {
 	cmd := &cobra.Command{
 		Use:           "logout",
-		Short:         "Log out from a Secretify",
+		Short:         "Log out",
 		SilenceUsage:  true,
 		SilenceErrors: true,
 		RunE: func(cmd *cobra.Command, args []string) error {
