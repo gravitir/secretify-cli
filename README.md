@@ -58,10 +58,15 @@ mv ./secretify ~/.local/bin/secretify
 After installation, verify that Secretify is installed correctly by running:
 
 ```bash
-secretify --version
+secretify version
 ```
 
 This command should output the version of Secretify installed.
+
+
+### Installing Secretify CLI on Windows
+
+Download the latest release of Secretify for Windows [https://www.secretify.io/release/bin/win/secretify.exe](https://www.secretify.io/release/bin/win/secretify.exe) as well as the checksum file [https://www.secretify.io/release/bin/win/secretify.sha256](https://www.secretify.io/release/bin/win/secretify.sha256).
 
 ## Usage
 
